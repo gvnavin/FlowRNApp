@@ -1,0 +1,13 @@
+[ignore]
+
+[include]
+App.js
+
+[libs]
+node_modules
+
+[lints]
+
+[options]
+
+[strict]
